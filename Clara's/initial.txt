@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clara's Shop</title>
+    <link rel="stylesheet" href="shop.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+<section id="header">
+    <a href="#"><img src="img/logo.png"alt=""></a>
+</section>
+
+
+ <script src="shop.js"></script>   
+</body>
+</html>
+
+//CSS
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: "League Spartan", sans-serif;
+}
+h1{
+font-size: 50px;
+line-height: 64px;
+color:#222;
+}
+
+h2{
+    font-size: 50px;
+    line-height: 54px;
+    color:#222;
+}
+h4{
+    font-size: 20px;
+    color:#222;
+}
+h6{
+    font-weight:700;
+    font-size:12px;
+}
+p{
+    font-size: 16px;
+    color:#465b52;
+    margin:15px 0 20px 0;
+}
+.section-p1{
+    padding: 40px 80px;
+}
+.section-m1{
+    margin:40px 0;
+}
+body{
+    width:100vh;
+}
+
+/*Header start*/
